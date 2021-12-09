@@ -1,6 +1,6 @@
 # Weather App With React JS
 
-This project designed with HTML, CSS, BOOTSTRAP, JS, REACT JS
+This project designed with HTML, CSS, BOOTSTRAP, JS, REACT JS .\
 I used **somteacodes/weatherapp**'s design for the UI design and made some minor changes to it.
 
 ![image](https://user-images.githubusercontent.com/40702669/145445286-584e0c26-6c8a-4c87-9ec7-8fa67f542465.png)
